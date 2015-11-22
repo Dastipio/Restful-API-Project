@@ -1,0 +1,14 @@
+c:\users\daniel\documents\visual studio 2013\Projects\WebApiREST\WebApiREST\bin\WebApiREST.dll.config
+c:\users\daniel\documents\visual studio 2013\Projects\WebApiREST\WebApiREST\bin\WebApiREST.dll
+c:\users\daniel\documents\visual studio 2013\Projects\WebApiREST\WebApiREST\bin\WebApiREST.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\WebApiREST\WebApiREST\bin\Newtonsoft.Json.dll
+c:\users\daniel\documents\visual studio 2013\Projects\WebApiREST\WebApiREST\bin\System.Net.Http.Formatting.dll
+c:\users\daniel\documents\visual studio 2013\Projects\WebApiREST\WebApiREST\bin\System.Web.Http.dll
+c:\users\daniel\documents\visual studio 2013\Projects\WebApiREST\WebApiREST\bin\System.Web.Http.WebHost.dll
+c:\users\daniel\documents\visual studio 2013\Projects\WebApiREST\WebApiREST\bin\Newtonsoft.Json.xml
+c:\users\daniel\documents\visual studio 2013\Projects\WebApiREST\WebApiREST\bin\System.Net.Http.Formatting.xml
+c:\users\daniel\documents\visual studio 2013\Projects\WebApiREST\WebApiREST\bin\System.Web.Http.xml
+c:\users\daniel\documents\visual studio 2013\Projects\WebApiREST\WebApiREST\bin\System.Web.Http.WebHost.xml
+c:\users\daniel\documents\visual studio 2013\Projects\WebApiREST\WebApiREST\obj\Debug\WebApiREST.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\WebApiREST\WebApiREST\obj\Debug\WebApiREST.dll
+c:\users\daniel\documents\visual studio 2013\Projects\WebApiREST\WebApiREST\obj\Debug\WebApiREST.pdb
